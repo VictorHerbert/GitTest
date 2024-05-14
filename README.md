@@ -2,6 +2,7 @@
 
 Project Description
 Adding more description
+Final description
 
 feature1
     feature1.1
